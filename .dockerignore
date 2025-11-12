@@ -1,2 +1,6 @@
-test_env
-tphate_venv
+test_venv
+__pycache__
+.git
+.git/*
+.gitignore
+
